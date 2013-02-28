@@ -1,0 +1,4 @@
+sample
+======
+
+Minimalistic project sample
